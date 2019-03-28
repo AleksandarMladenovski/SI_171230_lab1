@@ -3,6 +3,7 @@
 using namespace std;
 
 void printMyName () {
+cout<<"Aleksandar Mladenovski";
 	//TODO
 }
 
